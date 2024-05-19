@@ -100,3 +100,105 @@
 100-Lightning Energy
 101-Psychic Energy
 102-Water Energy
+1-1st-Alakazam
+2-1st-Blastoise
+3-1st-Chansey
+4-1st-Charizard
+5-1st-Clefairy
+6-1st-Gyarados
+7-1st-Hitmonchan
+8-1st-Machamp
+9-1st-Magneton
+10-1st-Mewtwo
+11-1st-Nidoking
+12-1st-Ninetales
+13-1st-Poliwrath
+14-1st-Raichu
+15-1st-Venusaur
+16-1st-Zapdos
+17-1st-Beedrill
+18-1st-Dragonair
+19-1st-Dugtrio
+20-1st-Electabuzz
+21-1st-Electrode
+22-1st-Pidgeotto
+23-1st-Arcanine
+24-1st-Charmeleon
+25-1st-Dewgong
+26-1st-Dratini
+27-1st-Farfetch'd
+28-1st-Growlithe
+29-1st-Haunter
+30-1st-Ivysaur
+31-1st-Jynx
+32-1st-Kadabra
+33-1st-Kakuna
+34-1st-Machoke
+35-1st-Magikarp
+36-1st-Magmar
+37-1st-Nidorino
+38-1st-Poliwhirl
+39-1st-Porygon
+40-1st-Raticate
+41-1st-Seel
+42-1st-Wartortle
+43-1st-Abra
+44-1st-Bulbasaur
+45-1st-Caterpie
+46-1st-Charmander
+47-1st-Diglett
+48-1st-Doduo
+49-1st-Drowzee
+50-1st-Gastly
+51-1st-Koffing
+52-1st-Machop
+53-1st-Magnemite
+54-1st-Metapod
+55-1st-Nidoran
+56-1st-Onix
+57-1st-Pidgey
+58-1st-Pikachu
+59-1st-Poliwag
+60-1st-Ponyta
+61-1st-Rattata
+62-1st-Sandshrew
+63-1st-Squirtle
+64-1st-Starmie
+65-1st-Staryu
+66-1st-Tangela
+67-1st-Voltorb
+68-1st-Vulpix
+69-1st-Weedle
+70-1st-Clefairy Doll
+71-1st-Computer Search
+72-1st-Devolution Spary
+73-1st-Imposter Professor Oak
+74-1st-Item Finder
+75-1st-Lass
+76-1st-Pokemon Breeder
+77-1st-Pokemon Trader
+78-1st-Scoop Up
+79-1st-Super Energy Removal
+80-1st-Defender
+81-1st-Energy Retrieval
+82-1st-Full Heal
+83-1st-Maintenance
+84-1st-PlusPower
+85-1st-Pokemon Center
+86-1st-Pokemon Flute
+87-1st-Pokedex
+88-1st-Professor Oak
+89-1st-Revive
+90-1st-Super Potion
+91-1st-Bil
+92-1st-Energy Removal
+93-1st-Gust Of Wind
+94-1st-Potion
+95-1st-Switch
+96-1st-Double Colorless Energy
+97-1st-Fighting Energy
+98-1st-Fire Energy
+99-1st-Grass Energy
+100-1st-Lightning Energy
+101-1st-Psychic Energy
+102-1st-Water Energy
